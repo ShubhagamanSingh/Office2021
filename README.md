@@ -1,5 +1,5 @@
 <p>
-  After Downloading the folder <br>
+  After Downloading the folder Office2021 <br>
 -> Turn off the windows defender<br>
 -> Extract the downloaded zip file<br>
 -> Double click on bin.exe to install the office 2021<br>
